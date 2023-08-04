@@ -16,10 +16,10 @@ This is a simple Android app for booking bus tickets using the SheetDB API for d
 ## Screenshots
 
 <img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/ff9bf887-0b5c-4e6c-92a0-a950eab64488" />
-
+#
 <img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/66a8abaf-dbb0-4d1c-9403-854cd5817a04" />
 #
-<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/1461bd2f-efe8-43e1-afa4-0c14d05a24da" />
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/1461bd2f-efe8-43e1-afa4-0c14d05a24da" /><br><br>
 #
 <img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/773b2f92-d04f-4e98-9892-f43be0fe1c56" />
 #
