@@ -3,11 +3,12 @@
 
 ## Introduction
 
-This is a simple Android app for booking bus tickets using the SheetDB API for data storage, Firebase for authentication, and Chapa for payment processing. The app is built using Sketchware, a visual programming platform for Android.
+This is a simple Bus Ticket Booking Android App built using Sketchware. The app allows users to book bus tickets for their desired routes and pay securely using Firebase and Chapa payment gateway. It also utilizes the SheetDB API for managing and storing ticket booking data and the NoCode API for email validation during the registration process.
 
 ## Features
 
 - User Registration and Login: Users can create an account and log in to the app using their email or phone number.
+- NoCode API ensures valid email addresses during the registration process.
 - Select Seats: Once the user chooses a bus, they can select their preferred seats from the available options.
 - Booking Confirmation: After selecting seats, users can proceed to confirm their booking.
 - Payment: Chapa payment integration allows users to make secure and convenient payments for their bookings.
@@ -43,6 +44,7 @@ This is a simple Android app for booking bus tickets using the SheetDB API for d
 - SheetDB API: [https://sheetdb.io/](https://sheetdb.io/)
 - Firebase Authentication: [https://firebase.google.com/](https://firebase.google.com/)
 - Chapa Payment Gateway: [https://www.chapa.co/](https://www.chapa.co/)
+- NoCode API: [https://nocodeapi.com/use-cases/](https://nocodeapi.com/use-cases/)
 
 ## Contributions
 
