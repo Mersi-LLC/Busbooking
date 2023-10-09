@@ -25,6 +25,8 @@ This is a simple Bus Ticket Booking Android App built using Sketchware. The app 
 
 <img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/ac441632-aace-4875-bdb8-9e78c89e8448"/>
 
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/b2efecb6-3c9e-48c4-8fd3-55b786f0d827"/>
+
 <img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/7e2d1512-b386-4ff4-ade9-4f6165553ff2"/>
 
 
