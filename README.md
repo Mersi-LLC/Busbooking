@@ -15,19 +15,17 @@ This is a simple Bus Ticket Booking Android App built using Sketchware. The app 
 - Booking History: Users can view their booking history and check the status of their past and upcoming trips.
 
 ## Screenshots
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/82d8101c-1ed2-45f0-b4c8-1376a874f30b"/>
 
-<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/ff9bf887-0b5c-4e6c-92a0-a950eab64488" />
-#
-<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/66a8abaf-dbb0-4d1c-9403-854cd5817a04" />
-#
-<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/1461bd2f-efe8-43e1-afa4-0c14d05a24da" /><br><br>
-#
-<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/773b2f92-d04f-4e98-9892-f43be0fe1c56" />
-#
-<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/a52bd93b-53c0-48c1-9e57-e77e8543142d" />
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/4a681d53-2ee5-434e-b58e-6ff86ad73fb6"/>
 
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/d59a5525-10db-4278-8538-8415349630aa"/>
 
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/cddaa8e7-d98a-49b7-a945-774f632e2929"/>
 
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/ac441632-aace-4875-bdb8-9e78c89e8448"/>
+
+<img align="center" alt="Behailu Getachew| ANDROID" width="250px" src="https://github.com/BayaInnovation/go/assets/86925273/7e2d1512-b386-4ff4-ade9-4f6165553ff2"/>
 
 
 ## How to Use
